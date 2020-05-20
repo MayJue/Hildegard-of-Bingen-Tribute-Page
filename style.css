@@ -2,8 +2,8 @@ h1{
   font-size: 300%;
 }
 h2{
-  font-size: 100%;
-padding-bottom: 20px;
+  font-size: 150%;
+  padding-bottom: 20px;
 }
 #title{
   background-color: #242424;
@@ -33,7 +33,12 @@ footer{
   height: auto;
 }
 #tribute-info{
-  font-size: 150%;
+
+  font-size: 130%;
+}
+li{
+  text-align:left;
+  padding:1% 12% 1% 12%;
 }
 h3{
   padding:0;
