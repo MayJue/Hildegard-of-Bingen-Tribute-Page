@@ -1,0 +1,41 @@
+h1{
+  font-size: 300%;
+}
+h2{
+  font-size: 100%;
+padding-bottom: 20px;
+}
+#title{
+  background-color: #242424;
+  color: #d4d4d4;
+}
+#main{
+  text-align: center;
+  background-color: #b8b8b8;
+}
+footer{
+  background-color: #9e9e9e;
+  text-align: center;
+
+}
+
+#img-div{
+  padding: 15px;
+  background-color: #cfcccc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 20px;
+  margin-inline-end: 20px;
+
+}
+#image{
+  max-width: 100%;
+  height: auto;
+}
+#tribute-info{
+  font-size: 150%;
+}
+h3{
+  padding:0;
+  margin: 0;
+}
